@@ -30,11 +30,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ ɴᴀᴍᴇ      : ᴍᴏʜᴀᴍᴍᴀᴅ ʀᴀʜᴀᴅ 
+- ➪ ɴᴀᴍᴇ      : 𝙰𝙽𝙾𝚆𝙰𝚁 𝙱𝚁𝙾
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ ʀᴇʟɪɢɪᴏɴ    : ɪꜱʟᴀᴍ
+- ➪ ʀᴇʟɪɢɪᴏɴ    : 𝙸𝚂𝙻𝙰𝙼
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -46,15 +46,15 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [ᴍᴏʜᴀᴍᴍᴀᴅ ʀᴀʜᴀᴅ ](https://www.facebook.com/www.xnx.com09)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝙰𝙽𝙾𝚆𝙰𝚁 𝙱𝚁𝙾 ](https://www.facebook.com/NEED.12.V4T4RI)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [ᴍᴏʜᴀᴍᴍᴀᴅ ʀᴀʜᴀᴅ ](https://www.instagram.com/mdrahad_hosain)
+- ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [𝙰𝙽𝙾𝚆𝙰𝚁 𝙺𝙷𝙰𝙽 ](https://www.instagram.com/anowar5045)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
-<a href="https://github.com/MR-RAHAD-511"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://fb.com/www.xnx.com09"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/mdrahad_hosain"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+<a href="https://github.com/ANOWAR-BRO"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://www.facebook.com/NEED.12.V4T4RI"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.instagram.com/anowar5045"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
